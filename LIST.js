@@ -403,6 +403,7 @@ List_Class.prototype = {
             case "Long An":
                 listDistrict.html("<option value='0'>Tất cả Quận/Huyện</option>\
                 <option value='Thị xã Tân An'>Thị xã Tân An</option>\
+		<option value='Thị xã Kiến Tường'>Thị xã Kiến Tường</option>\
                 <option value='Huyện Vĩnh Hưng'>Huyện Vĩnh Hưng</option>\
                 <option value='Huyện Mộc Hoá'>Huyện Mộc Hoá</option>\
                 <option value='Huyện Tân Thạnh'>Huyện Tân Thạnh</option>\

@@ -344,16 +344,16 @@ List_Class.prototype = {
                 break;
             case "Bình Dương":
                 listDistrict.html("<option value='0'>Tất cả Quận/Huyện</option>\
-                <option value='Thị xã Thủ Dầu Một'>Thị xã Thủ Dầu Một</option>\
-                <option value='Huyện Bến Cát'>Huyện Bến Cát</option>\
-                <option value='Huyện Tân Uyên'>Huyện Tân Uyên</option>\
-                <option value='Huyện Thuận An'>Huyện Thuận An</option>\
-                <option value='Huyện Dĩ An'>Huyện Dĩ An</option>\
+                <option value='Huyện Bắc Tân Uyên'>Huyện Bắc Tân Uyên</option>\
+                <option value='Huyện Bàu Bàng'>Huyện Bàu Bàng</option>\
+                <option value='Huyện Dầu Tiếng'>Huyện Dầu Tiếng</option>\
                 <option value='Huyện Phú Giáo'>Huyện Phú Giáo</option>\
-		<option value='Huyện Bàu Bàng'>Huyện Bàu Bàng</option>\
-                <option value='Huyện Dầu Tiếng'>Huyện Dầu Tiếng</option>");
+                <option value='Thành Phố Dĩ An'>Thành Phố Dĩ An</option>\
+                <option value='Thành phố Thủ Dầu Một'>Thành phố Thủ Dầu Một</option>\
+                <option value='Thành Phố Thuận An'>Thành Phố Thuận An</option>\
+                <option value='Thị Xã Bến Cát'>Thị Xã Bến Cát</option>\
+                <option value='Thị xã Tân Uyên'>Thị xã Tân Uyên</option>");
                 break;
-
             case "Ninh Thuận":
                 listDistrict.html("<option value='0'>Tất cả Quận/Huyện</option>\
                 <option value='Thị xã Phan Rang-Tháp Chàm'>Thị xã Phan Rang-Tháp Chàm</option>\

@@ -458,6 +458,7 @@ List_Class.prototype = {
                 <option value='Huyện Tân Thành'>Huyện Tân Thành</option>\
                 <option value='Huyện Xuyên Mộc'>Huyện Xuyên Mộc</option>\
                 <option value='Thành phố Bà Rịa'>Thành phố Bà Rịa</option>\
+		<option value='Thị Xã Phú Mỹ'>Thị Xã Phú Mỹ</option>\ 
 		<option value='TP. Vũng Tàu'>TP. Vũng Tàu</option>");
                 break;
             case "Tiền Giang":

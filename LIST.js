@@ -451,16 +451,15 @@ List_Class.prototype = {
                 break;
             case "Vũng Tàu":
                 listDistrict.html("<option value='0'>Tất cả Quận/Huyện</option>\
-                <option value='Thành phố Vũng Tàu'>Thành phố Vũng Tàu</option>\
-                <option value='Thị xã Bà Rịa'>Thị xã Bà Rịa</option>\
-                <option value='Huyện Xuyên Mộc'>Huyện Xuyên Mộc</option>\
-                <option value='Huyện Long Điền'>Huyện Long Điền</option>\
-                <option value='Huyện Côn Đảo'>Huyện Côn Đảo</option>\
-                <option value='Huyện Tân Thành'>Huyện Tân Thành</option>\
                 <option value='Huyện Châu Đức'>Huyện Châu Đức</option>\
-                <option value='Huyện Đất Đỏ'>Huyện Đất Đỏ</option>");
+                <option value='Huyện Côn Đảo'>Huyện Côn Đảo</option>\
+                <option value='Huyện Đất Đỏ'>Huyện Đất Đỏ</option>\
+                <option value='Huyện Long Điền'>Huyện Long Điền</option>\
+                <option value='Huyện Tân Thành'>Huyện Tân Thành</option>\
+                <option value='Huyện Xuyên Mộc'>Huyện Xuyên Mộc</option>\
+                <option value='Thành phố Bà Rịa'>Thành phố Bà Rịa</option>\
+		<option value='TP. Vũng Tàu'>TP. Vũng Tàu</option>");
                 break;
-
             case "Tiền Giang":
                 listDistrict.html("<option value='0'>Tất cả Quận/Huyện</option>\
                 <option value='Thành phố Mỹ Tho'>Thành phố Mỹ Tho</option>\
